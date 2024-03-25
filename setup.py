@@ -16,13 +16,14 @@ requires = open(os.path.join(root_path, 'requirements.txt')).readlines()
 setup(
     name='pyshearlab',
 
-    version='0.0.1',
+    version='0.0.2',
 
     description='Shearlets in python',
 
     url='https://github.com/Miiitiii/pyshearlab',
 
     author='Stefan Loock',
+    Editor='Mahdi Firouzbakht',
 
     license='GPL',
 
